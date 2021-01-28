@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34468070399",
+    "project_id": "sign-up-f4abf",
+    "storage_bucket": "sign-up-f4abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34468070399:android:ee6175b3ac3c53083a1dca",
+        "android_client_info": {
+          "package_name": "com.example.sign_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34468070399-4qdljola14ql46gn7e48s5ith3enspvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa6ulzQoDvTunEh1XHlxQsdhDWvEJRfFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34468070399-4qdljola14ql46gn7e48s5ith3enspvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
